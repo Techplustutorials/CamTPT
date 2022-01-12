@@ -1,6 +1,7 @@
 # CamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![CamTPT]
+![CamTPT]![github](https://user-images.githubusercontent.com/82097541/149163961-48799ce8-ddd5-4383-aad3-2f3154bac25f.png)
+
 
 # What is CamTPT?
 <p>CamTPT is techniques to take cam shots of target's phone front camera or PC webcam. CamPhish Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
@@ -17,7 +18,8 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
 ## This Tool Tested On :
 <ul>
   <li>Kali Linux</li>
-  <li>Termux</li>
+  <li>Termux</li>![Uploading github.png…]()
+
   <li>MacOS</li>
   <li>Ubuntu</li>
   <li>Parrot Sec OS</li>
