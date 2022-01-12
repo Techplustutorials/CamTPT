@@ -48,6 +48,6 @@ bash camTPT.sh
 
 ### Video Demo
 [![CamTPT Update demo]()]()
-#### For More Video subcribe <a href="http://youtube.com/techplustutorials">TechPlusTutorials YouTube Channel</a>
+#### For More Video subcribe <a href="https://www.youtube.com/channel/UCOjuEkJrHwWyPqCEbuedSZQ">TechPlusTutorials YouTube Channel</a>
 <p>CamTPT is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamTPT is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
